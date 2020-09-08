@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a84ecd26-e45a-4269-8fad-85e2bfff5c94" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dart File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1h2y6Uuwz87uE4CoCrgJDBwMq8O" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
+    <property name="dart.analysis.tool.window.force.activate" value="false" />
+    <property name="io.flutter.reload.alreadyRun" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RunManager" selected="Flutter.main.dart">
+    <configuration name="scratch.dart" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" temporary="true" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/scratch.dart" />
+      <option name="workingDirectory" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main.dart" type="FlutterRunConfigurationType" factoryName="Flutter">
+      <option name="filePath" value="$PROJECT_DIR$/lib/main.dart" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Dart Command Line App.scratch.dart" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Abdelrahman\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a84ecd26-e45a-4269-8fad-85e2bfff5c94" name="Default Changelist" comment="" />
+      <created>1599223309815</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599223309815</updated>
+    </task>
+    <task id="LOCAL-00001" summary="full project">
+      <created>1599324813390</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599324813390</updated>
+    </task>
+    <task id="LOCAL-00002" summary="full project">
+      <created>1599576531996</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1599576531996</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="full project" />
+    <option name="LAST_COMMIT_MESSAGE" value="full project" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="261" y="8" key="#Notifications" timestamp="1599579775210">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="261" y="8" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1599579775210" />
+    <state x="530" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1599318454800">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="530" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1599318454800" />
+    <state x="348" y="0" key="CommitChangelistDialog2" timestamp="1599576530312">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="348" y="0" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1599576530312" />
+    <state x="170" y="83" key="FileChooserDialogImpl" timestamp="1599579760825">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="170" y="83" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1599579760825" />
+    <state x="611" y="303" key="Github.ShareDialog" timestamp="1599579892325">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="611" y="303" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1599579892325" />
+    <state width="1481" height="228" key="GridCell.Tab.0.bottom" timestamp="1599324836026">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="228" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1599324836026" />
+    <state width="1481" height="228" key="GridCell.Tab.0.center" timestamp="1599324836025">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="228" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1599324836025" />
+    <state width="1481" height="228" key="GridCell.Tab.0.left" timestamp="1599324836025">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="228" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1599324836025" />
+    <state width="1481" height="228" key="GridCell.Tab.0.right" timestamp="1599324836026">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1481" height="228" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1599324836026" />
+    <state x="249" y="115" key="IDE.errors.dialog" timestamp="1599578949635">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="115" key="IDE.errors.dialog/0.0.1536.864@0.0.1536.864" timestamp="1599578949635" />
+    <state x="261" y="100" key="Vcs.Push.Dialog.v2" timestamp="1599578638300">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="261" y="100" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1599578638300" />
+    <state x="93" y="93" width="1350" height="678" maximized="true" key="com.android.tools.idea.avdmanager.AvdListDialog" timestamp="1599224478753">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" maximized="true" key="com.android.tools.idea.avdmanager.AvdListDialog/0.0.1536.864@0.0.1536.864" timestamp="1599224478753" />
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1599578990171">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1599578990171" />
+    <state x="93" y="93" width="1350" height="678" maximized="true" key="dock-window-1" timestamp="1599320763547">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" maximized="true" key="dock-window-1/0.0.1536.864@0.0.1536.864" timestamp="1599320763547" />
+  </component>
+</project>
